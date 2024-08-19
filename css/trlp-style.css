@@ -1,0 +1,324 @@
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap);
+
+
+
+/*
+**************************
+SPOTIFY ICON ON SIDEBAR MENU
+**************************
+*/
+
+ul.menu-fullscreen li > a.spotify_icon{
+    color:#81B71A;
+    border:0;
+}
+  
+ul.menu-fullscreen li > a.spotify_icon:hover{
+    color:#6F4A8E;
+}
+
+
+.logo-img {
+    height: 100px;
+    width: 100px;
+    padding-top: 25%;
+}
+
+
+
+/*
+**************************
+UBUNTU TYPO
+**************************
+*/
+
+.ubuntu-light {                                  /*este se uso para el footer titulo*/
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .ubuntu-light-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .ubuntu-regular-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .ubuntu-medium {                                  /*este se uso en el menu*/ /*este se uso para titulos de las cards*/
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .ubuntu-bold {                                   /*este se uso para titulos*/  /*este se uso en el boton de submit*/ /*este se uso para titulos de las cards de servicios*/
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  /*
+**************************
+RALEWAY TYPO
+**************************
+*/
+
+/* <uniquifier>: Use a uniquifier for the class name
+   <weight>: Use a value from 100 to 900*/
+   
+.raleway-thin {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.raleway-thin-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: italic;
+  }
+
+.raleway-extra-light {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+.raleway-extra-light-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: italic;
+  }
+
+.raleway-light {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.raleway-light-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+  }
+
+.raleway-regular {                                  /*ese se utilizo para parrafos*/
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.raleway-regular-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+.raleway-medium {                                   /*este se utilizo en subtitulos de las cards*/
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+ 
+.raleway-medium-italic {                           /*este se uso en el textarea del contact, en el message*/
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+.raleway-semi-bold {                                   /*este se utilizo para subtitulos*/
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.raleway-semi-bold-italic {                            
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: italic;
+  }
+
+.raleway-bold {                                            /* usado para el text resalt de los parrafos */
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.raleway-bold-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+.raleway-extra-bold {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+.raleway-extra-bold-italic {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: italic;
+  }
+
+.raleway-black {                                     
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+.raleway-black-italic {                             
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+  /*
+**************************
+COLOR PALETTE
+**************************
+*/
+
+.color-one  {
+    color: #6F4A8E;
+}
+
+.color-two  {
+    color: #221F3B;
+}
+
+.color-three  {
+    color: #050505;
+}
+
+.color-four  {
+    color: #EBEBEB;
+}
+
+
+.personal_media {
+  color: #050505;
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+.personal_media:hover {
+  color: #6F4A8E;
+}
+
+
+
+  /*
+**************************
+FONT SIZE
+**************************
+*/
+
+
+.size_paragraph  {    /*este esta bien*/
+  font-size: 16px;
+}
+
+.size_titles  {        /*este esta bien con el !important*/
+  font-size: 60px !important;
+}
+
+.size_title_ind  {      /*este esta bien con el !important*/
+  font-size: 62px !important;
+}
+
+.size_subtitles  {     /*este esta bien*/
+  font-size: 21px;
+}
+
+.size_footer  {       /*este esta bien*/
+  font-size: 13px;
+}
+
+.size_card_title  {      /*este esta bien*/
+  font-size: 18px;
+}
+
+.size_card_subtitle  {    /*este esta bien*/
+  font-size: 14px;
+}
+
+.size_arrow_ind  {       /*este esta bien*/
+  font-size: 14px;
+}
+
+.size_menu  {         /*este esta bien*/
+  font-size: 35px;
+}
+
+
+/*
+**************************
+PROFILE IMAGE PERSONS
+**************************
+*/
+#profile_img {
+  border-bottom: 2px solid #6F4A8E;
+}
+
+
+
+.soundcloud_artist {
+  color: #6F4A8E;
+  border-bottom: 0;
+  text-decoration: none;  
+}
+
+.soundcloud_artist:hover {
+  color: #050505;  
+}
+
+ 
+
+
+
