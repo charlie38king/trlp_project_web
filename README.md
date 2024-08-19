@@ -1,4 +1,4 @@
-# The Roth Logan Project Web
+# The Roth/Logan Project Web
 Este repositorio contiene el código de The Roth/Logan Project, una web implementada para un estudio de diseño. El objetivo de este proyecto es crear una plataforma visualmente atractiva y funcional que represente la creatividad y profesionalismo del estudio.
 
 ## Características:
